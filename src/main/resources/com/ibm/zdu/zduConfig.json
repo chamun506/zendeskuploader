@@ -1,0 +1,12 @@
+{
+  "inputCsvPath":"C:\\zduploader\\input",
+  "reportPath":"C:\\zduploader\\report",
+  "formatFile":"csvFormat.json",
+  "recordsPerAPI":"100", 
+  "APIPerMin":"10", 
+  "zendeskHost":"https://srsuat01.zendesk.com",
+  "credentials":"chamun@au1.ibm.com:myzendesk16",
+  "createUpdateManyURI":"/api/v2/users/create_or_update_many.json",
+  "jobStatusesURI":"/api/v2/job_statuses/"
+  
+}

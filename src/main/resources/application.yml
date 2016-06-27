@@ -1,0 +1,12 @@
+spring.batch.job.enabled: false
+server: 
+  port: 12001
+spring:
+  application:
+    name: zduploader
+    cloud:
+    services:
+      registrationMethod: route    
+     
+
+
